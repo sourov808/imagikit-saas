@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1770446469013,
+      "tag": "0000_familiar_talkback",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1770452289461,
+      "tag": "0001_concerned_titania",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1770459098663,
+      "tag": "0002_calm_dagger",
+      "breakpoints": true
+    }
+  ]
+}
